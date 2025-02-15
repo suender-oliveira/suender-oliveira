@@ -4,47 +4,6 @@ Sou um profissional apaixonado por transformar desafios tecnológicos em soluç�
 
 Atualmente, sou **Desenvolvedor na IBM**, onde modernizo sistemas mainframe com Python e crio soluções automatizadas para otimizar processos críticos. Desenvolvi dashboards interativos com **Streamlit**, integrados a **Machine Learning**, acelerando a tomada de decisões estratégicas.
 
-## 📜 **Sumário**
-- [Experiência Profissional](#experiencia-profissional)
-- [Principais Competências](#principais-competencias)
-- [Educação e Formação](#educacao-e-formacao)
-- [Contato](#contato)
-
----
-
-## 💼 **Experiência Profissional**
-
-### 🔹 **IBM** – Back-end Developer *(Set/2023 - Presente)*
-- Arquitetura de software com foco em **back-end**.
-- Desenvolvimento e implementação de **APIs RESTful**.
-- Integração de **Machine Learning** em processos de workflow.
-- Construção de **dashboards interativos** com **Streamlit** para visualização de dados.
-- Especialista em **SQL, NoSQL, Ansible e Python**.
-
-### 🔹 **IBM** – Software Developer *(Mai/2022 - Presente)*
-- Automação de processos no ambiente **z/OS/Mainframe** utilizando **Ansible e Python**.
-- Desenvolvimento de **Playbooks** para otimização de operações críticas.
-- Testes rigorosos para garantir eficiência e precisão das automações.
-- **Monitoramento e manutenção** de sistemas de produção com **Ansible Tower**.
-
-### 🔹 **ARCOM** – Senior Infrastructure Analyst *(Set/2020 - Mai/2022)*
-- Gestão de infraestrutura de TI com foco em **segurança e eficiência operacional**.
-- Administração de **firewalls CISCO, Fortinet e Iptables**.
-- **Virtualização** com Citrix Xen e VMware.
-- **Pentest e Análise de Ameaças** para reforço da segurança cibernética.
-- Desenvolvimento de soluções automatizadas com **Python, PHP, Shell e SQL**.
-
-### 🔹 **ArcelorMittal Brasil** – Senior Security Architect *(Out/2018 - Abr/2020)*
-- Arquitetura de segurança para **infraestrutura de TI global**.
-- Implementação de **SIEMs modernos**, reduzindo incidentes em 40%.
-- Scrum Master da equipe de segurança.
-
-### 🔹 **Algar Telecom** – Senior Information Security Analyst *(Ago/2006 - Nov/2016)*
-- **Gestão de riscos e continuidade de negócios**.
-- Definição de investimentos estratégicos para mitigação de riscos.
-- Redefinição da arquitetura de **segurança IP** para combate a SPAM.
-- Implementação de processos baseados em **ITIL e ISO27000**.
-
 ---
 
 ## 🎯 **Principais Competências**
@@ -73,13 +32,6 @@ Atualmente, sou **Desenvolvedor na IBM**, onde modernizo sistemas mainframe com 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
----
-
-## 🎓 **Educação e Formação**
-🎓 **MBA Executivo em Gestão Financeira** – [ESAMC]  
-🎓 **Especialização em Segurança da Informação** – [Faculdade Pitágoras]  
-🎓 **Graduação em Redes de Computadores** – [Faculdade Pitágoras]  
 
 ---
 
