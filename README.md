@@ -5,14 +5,19 @@ Especialista em Backend apaixonado por tecnologia e inovação, com experiência
 ---
 
 ## 🎯 **Principais Competências**
-✅ Automação de sistemas legados com **Python**  
-✅ **Dashboards interativos** usando **Streamlit e Dash**  
-✅ **Machine Learning** aplicado a processos empresariais  
-✅ Desenvolvimento **Back-end** com **Ansible, Python e NextJS**  
-✅ **Administração de bancos de dados** SQL e NoSQL  
-✅ Segurança da informação e **arquitetura de redes**  
-✅ **Testes de penetração e análise forense**  
-✅ Processos de **ITIL, ISO27000 e gestão de riscos**  
+- Development of microservices and REST APIs in Python (FastAPI, Flask)
+- Data modeling and abstractions with SQLAlchemy
+- Management of SQL databases (Postgres, MySQL) and caches (Redis)
+- Implementation of unit and integration tests to ensure code quality
+- Collaboration with SRE teams for high availability and performance optimization
+- Container orchestration with Kubernetes and serverless deployments
+- Infrastructure automation with Ansible and Terraform (IaC)
+- Configuration of CI/CD pipelines using GitHub Actions
+- Monitoring and observability with Prometheus and Grafana
+- Integration of messaging systems (RabbitMQ, IBM MQ)
+- Proficiency in network protocols (TCP/IP, HTTP), reverse proxy, and load balancing
+- Information security and hardening best practices
+- Development of AI agents, LLMs, and RAG solution
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
