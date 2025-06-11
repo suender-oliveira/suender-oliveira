@@ -1,4 +1,29 @@
+# 💻🚀✨ **Coding is a Lifestyle** ✨🚀💻
+
+> 🧠 **Think in logic.**  
+> 🎯 **Act with precision.**  
+> 💡 **Create with passion.**  
+> 🔄 **Refactor with purpose.**  
+> ☕ **Fuel with caffeine.**  
+> 🎧 **Code to the rhythm.**  
+> 🔥 **Live to build.**
+
+---
+
+**🖤👨‍💻 `Coding` is not just a job... it's an `attitude`, a `rhythm`, a way of `being`.**  
+**It's the art of turning ✨ ideas into reality through logic, discipline, and boundless creativity.**
+
+---
+
+> ⚡ *"We don't just write code... we craft experiences, automate dreams, and engineer the future."*
+
+🌍🛠️ **#DeveloperLife • #CodeEveryday • #BuildTheFuture*
+
+---
+
 # 📌 **Professional Profile**
+
+**Coding is a life style**
 
 Backend Specialist passionate about technology and innovation, with experience in developing microservices and RESTful APIs in Python using FastAPI, Flask, and other frameworks. I have expertise in SQLAlchemy and working with SQL databases (PostgreSQL, MySQL), caching systems (Redis), messaging systems (RabbitMQ, IBM MQ), and vector storage solutions. I implement unit and integration tests to ensure code quality and reliability, and I follow best practices for scalability and maintainability.
 
