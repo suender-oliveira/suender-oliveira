@@ -23,8 +23,6 @@
 
 # 📌 **Professional Profile**
 
-**Coding is a life style**
-
 Backend Specialist passionate about technology and innovation, with experience in developing microservices and RESTful APIs in Python using FastAPI, Flask, and other frameworks. I have expertise in SQLAlchemy and working with SQL databases (PostgreSQL, MySQL), caching systems (Redis), messaging systems (RabbitMQ, IBM MQ), and vector storage solutions. I implement unit and integration tests to ensure code quality and reliability, and I follow best practices for scalability and maintainability.
 
 I have collaborated directly with SRE teams to achieve high availability and optimized production performance by monitoring metrics and identifying bottlenecks. I have hands-on experience with Git, GitHub Actions, and CI/CD pipelines, and I am familiar with cloud infrastructure, container orchestration (Kubernetes), serverless services, and Infrastructure as Code (Ansible, Terraform).
