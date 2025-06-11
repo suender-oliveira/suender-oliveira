@@ -74,7 +74,7 @@ I am constantly seeking challenges that combine artificial intelligence and soft
       "Kubernetes"
     ],
     "infrastructure": {
-      "cloud": ["AWS", "Azure", "GCP (general knowledge)"],
+      "cloud": ["IBM", "AWS", "Azure", "GCP (general knowledge)"],
       "orchestration": ["Kubernetes", "Serverless"],
       "ci_cd": ["GitHub Actions", "custom pipelines"],
       "observability": ["Prometheus", "Grafana", "Structured logging"]
