@@ -23,13 +23,22 @@
 
 # 📌 **Professional Profile**
 
-Backend Specialist passionate about technology and innovation, with experience in developing microservices and RESTful APIs in Python using FastAPI, Flask, and other frameworks. I have expertise in SQLAlchemy and working with SQL databases (PostgreSQL, MySQL), caching systems (Redis), messaging systems (RabbitMQ, IBM MQ), and vector storage solutions. I implement unit and integration tests to ensure code quality and reliability, and I follow best practices for scalability and maintainability.
+Specialist in Backend Development and Artificial Intelligence, focused on building robust, scalable, and business-impactful solutions. I work with modern software architecture, including Domain-Driven Design (DDD), Clean Architecture, and solid engineering practices.
 
-I have collaborated directly with SRE teams to achieve high availability and optimized production performance by monitoring metrics and identifying bottlenecks. I have hands-on experience with Git, GitHub Actions, and CI/CD pipelines, and I am familiar with cloud infrastructure, container orchestration (Kubernetes), serverless services, and Infrastructure as Code (Ansible, Terraform).
+I have experience developing critical systems, complex integrations (such as automations in z/OS environments), SaaS applications, and Machine Learning products applied to real business scenarios, such as intelligent ticket classification and automated financial analysis.
 
-My knowledge also covers observability (Prometheus, Grafana), network protocols (TCP/IP, HTTP), reverse proxy, load balancing, and information security. Additionally, I have experience with AI agents, LLMs, and Retrieval-Augmented Generation (RAG) solutions.
+I am driven by challenges that require innovation, strategic modeling, and systemic thinking. My goal is to combine technology with purpose, delivering solutions that generate real value, always considering security, performance, and maintainability.
 
-I am constantly seeking challenges that combine artificial intelligence and software engineering to deliver impactful results. With over 25 years of experience, I operate at the intersection of Information Security and Software Development, always pursuing efficiency and automation.
+I believe in continuous growth, both professionally and personally. As a Level 1 autistic individual, I bring a differentiated perspective to problem-solving, with attention to detail and disciplined execution.
+
+Key Skills:
+
+- Backend Development (Python/FastAPI, Node.js)
+- Software Architecture (DDD, Hexagonal, Clean Architecture)
+- Business-Oriented Machine Learning
+- Legacy Systems Integration (z/OS, SSH, critical automations)
+- MVP Design and Product-Market Fit Validation
+- Process Automation and Data Engineering
 
 ```json
 {
@@ -37,61 +46,67 @@ I am constantly seeking challenges that combine artificial intelligence and soft
     "name": "Suender Oliveira",
     "pronouns": ["he", "him"],
     "title": "Backend and AI Specialist",
-    "description": "Backend specialist with over 25 years of experience, operating at the intersection of Information Security and Software Engineering. Passionate about innovation, system architecture, applied AI, and scalable microservices-based solutions.",
+    "description": "Backend and AI specialist focused on building scalable, business-driven solutions with modern architectures like DDD, Hexagonal, and Clean Architecture. Passionate about innovation, system design, applied AI, and automation of critical environments such as z/OS.",
     "skills": [
-      "Microservices in Python",
-      "REST APIs (FastAPI, Flask)",
-      "Data modeling with SQLAlchemy",
-      "Distributed systems and messaging",
+      "Backend Development with Python and Node.js",
+      "Domain-Driven Design (DDD)",
+      "Hexagonal and Clean Architecture",
+      "Machine Learning applied to business use cases",
+      "Integration with Legacy Systems (z/OS, SSH)",
+      "Asynchronous Processing (Threading, AsyncIO)",
       "Automated testing (unit and integration)",
       "CI/CD with GitHub Actions",
-      "Kubernetes, Serverless, and IaC",
-      "Observability (Prometheus, Grafana)",
-      "Information Security",
-      "AI Agents and RAG solutions"
+      "SaaS MVP Design and PMF Validation",
+      "Information Security and API Security",
+      "Process Automation and Data Engineering"
     ],
-    "code": ["Python", "PHP", "JavaScript", "TypeScript", "HTML", "CSS", "Markdown"],
+    "code": ["Python", "Node.js", "JavaScript", "TypeScript", "SQL", "Bash", "Markdown"],
     "frameworks": [
       { "type": "backend", "name": "FastAPI", "language": "Python" },
       { "type": "backend", "name": "Flask", "language": "Python" },
-      { "type": "backend", "name": "Laravel", "language": "PHP" },
+      { "type": "backend", "name": "Express.js", "language": "Node.js" },
       { "type": "backend", "name": "Django", "language": "Python" },
-      { "type": "frontend", "name": "React", "language": "JavaScript" }
+      { "type": "frontend", "name": "Angular", "language": "TypeScript" },
+      { "type": "frontend", "name": "Streamlit", "language": "Python" }
     ],
     "tools": [
       "SQLAlchemy",
+      "Pydantic",
       "PostgreSQL",
-      "MySQL",
+      "SQLite",
       "Redis",
-      "RabbitMQ",
-      "IBM MQ",
-      "Ansible",
-      "Terraform",
-      "Prometheus",
-      "Grafana",
-      "GitHub Actions",
       "Docker",
-      "Kubernetes"
+      "Vault",
+      "RabbitMQ",
+      "GitHub Actions",
+      "Flask-SocketIO",
+      "SSH Integration"
     ],
     "infrastructure": {
-      "cloud": ["IBM", "AWS", "Azure", "GCP (general knowledge)"],
-      "orchestration": ["Kubernetes", "Serverless"],
-      "ci_cd": ["GitHub Actions", "custom pipelines"],
-      "observability": ["Prometheus", "Grafana", "Structured logging"]
+      "cloud": ["IBM Cloud", "AWS", "Azure", "GCP (general knowledge)"],
+      "orchestration": ["Docker", "Kubernetes (basic)", "Serverless (conceptual)"],
+      "ci_cd": ["GitHub Actions", "Custom Pipelines"],
+      "observability": ["Structured Logging", "Custom Monitoring", "Real-time Dashboards with Flask-SocketIO"]
     },
     "ai": [
+      { "name": "ML Classification Systems", "focus": "Ticket categorization and financial transaction classification" },
       { "name": "LLMs", "focus": "Integration with autonomous agents" },
-      { "name": "RAG", "focus": "Solutions with vector stores and orchestration pipelines" }
+      { "name": "RAG", "focus": "Vector store-based pipelines and intelligent data retrieval" }
     ],
-    "network": ["TCP/IP", "HTTP", "Reverse proxy", "Load balancing"],
-    "security": ["Hardening", "API security", "Best practices in DevSecOps"],
-    "platforms": ["Linux", "macOS", "Windows"],
+    "network": ["TCP/IP", "HTTP", "SSH Protocol", "Reverse Proxy", "Load Balancing"],
+    "security": ["Hardening", "API Security", "Vault Integration", "DevSecOps Best Practices"],
+    "platforms": ["Linux", "macOS", "Windows", "z/OS (integration and automation)"],
+    "personal": {
+      "neurodiversity": "Level 1 Autistic (High-functioning), detail-oriented, disciplined in execution",
+      "mindset": "Innovation-driven, focused on systemic thinking and real problem-solving"
+    },
     "socials": [
       { "social": "email", "username": "suender@live.com", "link": "mailto:suender@live.com" },
       { "social": "linkedin", "username": "@suender", "link": "https://www.linkedin.com/in/suender/" },
       { "social": "github", "username": "suender-oliveira", "link": "https://github.com/suender-oliveira" }
     ],
-    "motto": "🚀 Always seeking innovative challenges to optimize processes, integrate security and technology, and drive the future of digital transformation."
+    "motto": "🚀 Transforming complex problems into scalable and secure solutions through innovation and strategic software design."
   }
 }
+
 ```
